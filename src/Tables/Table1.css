@@ -1,0 +1,29 @@
+.modal{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+   
+}
+.overlay{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background: rgba(49,49,49,0.8);
+}
+.modal-containt{
+    top: 40%;
+    left: 50%;
+    position: absolute;
+    left: 400px;
+    right: 200px;
+    background-color: white;
+}
+.myimg{
+    height: 200px;
+    width: 180px;
+    
+}
